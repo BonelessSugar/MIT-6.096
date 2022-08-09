@@ -22,4 +22,5 @@ int main() {
             inCircle++;
         }
     }
+    return 0;
 }
