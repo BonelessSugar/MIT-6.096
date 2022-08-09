@@ -33,4 +33,5 @@ int main() {
     cout << "How many times would you like to throw darts?: ";
     cin >> n;
     cout << "The value of Pi is: " << piCalc(n);
+    return 0;
 }
